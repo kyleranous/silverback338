@@ -1,6 +1,6 @@
 ### Can a normal person be sucessful as an Indie Dev?
 I am a Husband / Father, and full time manufacturing engineer. Is it realistic to release a sucessful indie game?
-I intend to find out. I will be documenting my attempt on twitter [@sotu_dev](https://twitter.com/sotu_dev) and youtube[sotudev](https://www.youtube.com/channel/UCs_Etu4p72kWgAXRwJwwytA). Check it out!
+I intend to find out. I will be documenting my attempt on twitter [@sotu_dev](https://twitter.com/sotu_dev) and youtube [sotudev](https://www.youtube.com/channel/UCs_Etu4p72kWgAXRwJwwytA). Check it out!
 
 <!-- Links to Twitter and Youtube --->
 
