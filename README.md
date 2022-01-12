@@ -1,4 +1,9 @@
-### Hi there 👋
+### Can a normal person be sucessful as an Indie Dev?
+I am a Husband / Father, and full time manufacturing engineer. Is it realistic to release a sucessful indie game?
+I intend to find out. I will be documenting my attempt on twitter and youtube. Check it out!
+
+<!-- Links to Twitter and Youtube --->
+
 
 <!--
 **silverback338/silverback338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
