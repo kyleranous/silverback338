@@ -2,8 +2,8 @@
 I am a Husband / Father, and full time manufacturing engineer. Is it realistic to release a sucessful indie game?
 I intend to find out. I will be documenting my attempt on twitter [@sotu_dev](https://twitter.com/sotu_dev) and youtube [sotudev](https://www.youtube.com/channel/UCs_Etu4p72kWgAXRwJwwytA). Check it out!
 
-<!-- Links to Twitter and Youtube --->
-
+### Also Check Out
+[TAGE](https://github.com/silverback338/tage), The Text Adventure Game Engine. This is a project I am working on that would allow people to write simple "Game Scripts" To create a classic text based adventure game. 
 
 <!--
 **silverback338/silverback338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
